@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name" translatable="false">IrgiTugasDay05</string>
+    <string name="appName" translatable="false">Irgi Store</string>
+    <string name="nama">Nama</string>
+    <string name="member">Member</string>
+    <string name="emas">Emas</string>
+    <string name="silver">Silver</string>
+    <string name="normal">Normal</string>
+    <string name="kode_barang">Kode Barang</string>
+    <string name="jumlah_barang">Jumlah Barang</string>
+    <string name="proses">Proses</string>
+    <string name="transaksi">Transaksi Hari ini</string>
+    <string name="terima_kasih">Terima Kasih Telah Belanja Disini</string>
+    <string name="bagikan">Bagikan</string>
+    <string name="welcome">Selamat Datang</string>
+    <string name="tipe_member">Tipe Member</string>
+    <string name="nama_barang">Nama Barang</string>
+    <string name="harga">Harga</string>
+    <string name="total_harga">Total Harga</string>
+    <string name="diskon_harga">Diskon Harga</string>
+    <string name="diskon_member">Diskon Member</string>
+    <string name="total_bayar">Total Bayar</string>
+</resources>

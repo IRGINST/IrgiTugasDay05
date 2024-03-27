@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="nama">Name</string>
+    <string name="member">Member</string>
+    <string name="emas">Gold</string>
+    <string name="silver">Silver</string>
+    <string name="normal">Normal</string>
+    <string name="kode_barang">Code Item</string>
+    <string name="jumlah_barang">Total Item</string>
+    <string name="proses">Process</string>
+    <string name="transaksi">Transaction Today</string>
+    <string name="terima_kasih">Thanks To Shop Here</string>
+    <string name="bagikan">Share</string>
+    <string name="welcome">Welcome</string>
+    <string name="tipe_member">Type Member</string>
+    <string name="nama_barang">Name Item</string>
+    <string name="harga">Price</string>
+    <string name="total_harga">Price Total</string>
+    <string name="diskon_harga">Discount Price</string>
+    <string name="diskon_member">Discount Member</string>
+    <string name="total_bayar">Pay Total</string>
+</resources>
